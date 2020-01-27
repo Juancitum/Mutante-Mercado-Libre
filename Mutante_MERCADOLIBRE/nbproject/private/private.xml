@@ -3,17 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Juancitum/Documents/NetBeansProjects/Mutante_MERCADOLIBRE/web/WEB-INF/web.xml</file>
-            <file>file:/C:/Users/Juancitum/Documents/NetBeansProjects/Mutante_MERCADOLIBRE/src/java/entity/service/AlmacenocadenaadnFacadeREST.java</file>
-            <file>file:/C:/Users/Juancitum/Documents/NetBeansProjects/Mutante_MERCADOLIBRE/nbproject/build-impl.xml</file>
-            <file>file:/C:/Users/Juancitum/Documents/NetBeansProjects/Mutante_MERCADOLIBRE/setup/glassfish-resources.xml</file>
-            <file>file:/C:/Users/Juancitum/Documents/NetBeansProjects/Mutante_MERCADOLIBRE/web/index.html</file>
-            <file>file:/C:/Users/Juancitum/Documents/NetBeansProjects/Mutante_MERCADOLIBRE/src/conf/MANIFEST.MF</file>
-            <file>file:/C:/Users/Juancitum/Documents/NetBeansProjects/Mutante_MERCADOLIBRE/src/java/entity/Almacenocadenaadn.java</file>
-            <file>file:/C:/Users/Juancitum/Documents/NetBeansProjects/Mutante_MERCADOLIBRE/src/conf/persistence.xml</file>
-            <file>file:/C:/Users/Juancitum/Documents/NetBeansProjects/Mutante_MERCADOLIBRE/src/java/entity/service/ApplicationConfig.java</file>
-            <file>file:/C:/Users/Juancitum/Documents/NetBeansProjects/Mutante_MERCADOLIBRE/src/java/entity/Mutante.java</file>
-            <file>file:/C:/Users/Juancitum/Documents/NetBeansProjects/Mutante_MERCADOLIBRE/src/java/entity/service/AbstractFacade.java</file>
+            <file>file:/C:/Users/Juancitum/Desktop/Proyectos%20Github/Mutante-Mercado-Libre/Mutante-Mercado-Libre/Mutante_MERCADOLIBRE/src/java/entity/service/AbstractFacade.java</file>
+            <file>file:/C:/Users/Juancitum/Desktop/Proyectos%20Github/Mutante-Mercado-Libre/Mutante-Mercado-Libre/Mutante_MERCADOLIBRE/src/java/entity/Almacenocadenaadn.java</file>
+            <file>file:/C:/Users/Juancitum/Desktop/Proyectos%20Github/Mutante-Mercado-Libre/Mutante-Mercado-Libre/Mutante_MERCADOLIBRE/src/java/entity/service/AlmacenocadenaadnFacadeREST.java</file>
         </group>
     </open-files>
 </project-private>

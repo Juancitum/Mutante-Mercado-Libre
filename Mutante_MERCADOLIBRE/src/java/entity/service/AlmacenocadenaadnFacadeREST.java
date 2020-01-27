@@ -6,10 +6,8 @@
 package entity.service;
 
 import entity.Almacenocadenaadn;
-import static entity.Mutante.isMutante;
 import java.util.List;
 import javax.ejb.Stateless;
-import javax.management.j2ee.statistics.Stats;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 import javax.ws.rs.Consumes;
@@ -22,8 +20,6 @@ import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
-import javax.xml.rpc.ServiceException;
-
 /**
  *
  * @author Juancitum
@@ -87,12 +83,14 @@ public class AlmacenocadenaadnFacadeREST extends AbstractFacade<Almacenocadenaad
     }
 
     @GET
-    @Path(value = "/stats")
+    @Path("/stats")
     @Produces("text/plain")
-    public String getStatics() {
-        return String.valueOf(super.countStats());
-    }
+    public String findAllMutante() {
+        
 
+         return String.valueOf(super.countStats() +  " Registros Totales");
+    }
+    
     @Override
     protected EntityManager getEntityManager() {
         return em;
